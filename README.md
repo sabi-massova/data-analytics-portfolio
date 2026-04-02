@@ -5,7 +5,7 @@ I am learning Data Analytics and building projects using Python.
 ## skills
 - Python
 - Excel
-- Data Analysis (beginner)0
+- Data Analysis (beginner)
 
 ## Projects
 - Sales Data Analysis (comming soon )
